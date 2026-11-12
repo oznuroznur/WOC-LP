@@ -1,0 +1,34 @@
+# WOC (Wisdom of Crowds)
+
+> WOC, gündemin ve açmazların konuşulduğu Türkçe bir sosyal platformdur. Kullanıcılar bir soru açar ("bir WOC açmak"), diğerleri oy verir ("WOC'lamak") ve her sorunun altında konuyu tartışır. Slogan: "Açmazların başladığı yer." Çok yakında yayında.
+
+WOC is a Turkish social platform for trending topics and everyday dilemmas. Users post a question ("open a WOC"), others vote on it ("WOC it") and discuss it in a thread under every question. Tagline: "Açmazların başladığı yer." (Where dilemmas begin.) Launching soon.
+
+## Temel bilgiler
+
+- Ad: WOC (okunuşu: "vok"), açılımı Wisdom of Crowds (kalabalığın aklı)
+- Tür: Sosyal platform; soru, oylama ve tartışma
+- Dil ve pazar: Türkçe, Türkiye
+- Durum: Çok yakında (lansman öncesi)
+- Web: https://www.wocapp.tr
+- Instagram: https://www.instagram.com/wocapp.tr/
+
+## Nasıl çalışır?
+
+1. Bir WOC aç: Gündem, açmaz ya da tahmin sorusu sor.
+2. WOC'la: Oyunu ver, herkesin ne düşündüğünü anında gör.
+3. Tartış: Her WOC'un altında konuyu diğer kullanıcılarla konuş.
+
+## Örnek WOC'lar
+
+- Çay mı, kahve mi?
+- Menemen soğanlı mı, soğansız mı?
+- Arayan mı, mesaj atan mı?
+- Çok para mı, çok zaman mı?
+
+## Sözlük
+
+- WOC açmak: Platformda yeni bir soru oluşturmak.
+- WOC'lamak: Bir soruya oy verip fikrini söylemek.
+
+WOC para yatırma, bahis veya ödül içeren bir platform değildir; sosyal bir fikir ve tartışma platformudur.
