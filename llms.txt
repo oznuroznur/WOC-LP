@@ -1,4 +1,4 @@
-# WOC (Wisdom of Crowds)
+# WOC (wocapp) – Wisdom of Crowds
 
 > WOC, gündemin ve açmazların konuşulduğu Türkçe bir sosyal platformdur. Kullanıcılar bir soru açar ("bir WOC açmak"), diğerleri oy verir ("WOC'lamak") ve her sorunun altında konuyu tartışır. Slogan: "Açmazların başladığı yer." Çok yakında yayında.
 
@@ -6,7 +6,7 @@ WOC is a Turkish social platform for trending topics and everyday dilemmas. User
 
 ## Temel bilgiler
 
-- Ad: WOC (okunuşu: "vok"), açılımı Wisdom of Crowds (kalabalığın aklı)
+- Ad: WOC (okunuşu: "vok"), açılımı Wisdom of Crowds (kalabalığın aklı). Web adresi nedeniyle "wocapp" veya "WOC app" olarak da anılır.
 - Tür: Sosyal platform; soru, oylama ve tartışma
 - Dil ve pazar: Türkçe, Türkiye
 - Durum: Çok yakında (lansman öncesi)
